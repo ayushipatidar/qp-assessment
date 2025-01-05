@@ -16,4 +16,4 @@ A Grocery Booking API with role-based access control for Admin and User roles.
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/grocery-booking-api.git
+   git clone https://github.com/ayushipatidar/qp-assessment.git
